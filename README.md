@@ -16,16 +16,16 @@ MEmbuat sebuah model yang dapat memprediksi setidaknya 60% dari pelanggan yang a
 ## VARIABEL YANG TERSEDIA
 Dari dataset yang dimiliki terdapat beberapa data yang tersedia:
 
-Customer ID = ID unik Customer
-Branch = Lokasi Cabang Nasabah Terdaftar
-City = Lokasi Kota Nasabah Terdaftar
-Age = Umur Nasabah Pada Periode Observasi
-Avg. Annual Income/Month = Rata-rata penghasilan nasabah dalam satu tahun
-Balance (Q1-Q4) = Saldo mengendap yang dimiliki nasabah di akhir kuartal
-Num of Products (Q1-Q4) = Jumlah kepemilikan produk nasabah di akhir kuartal
-HasCrCard (Q1-Q4) = Status kepemilikan produk kartu kredit nasabah di akhir kuartal
-Active Member (Q1-Q4) = Status keaktifan nasabah
-Unpaid Tagging = Status nasabah gagal bayar
+* Customer ID = ID unik Customer
+* Branch = Lokasi Cabang Nasabah Terdaftar
+* City = Lokasi Kota Nasabah Terdaftar
+* Age = Umur Nasabah Pada Periode Observasi
+* Avg. Annual Income/Month = Rata-rata penghasilan nasabah dalam satu tahun
+* Balance (Q1-Q4) = Saldo mengendap yang dimiliki nasabah di akhir kuartal
+* Num of Products (Q1-Q4) = Jumlah kepemilikan produk nasabah di akhir kuartal
+* HasCrCard (Q1-Q4) = Status kepemilikan produk kartu kredit nasabah di akhir kuartal
+* Active Member (Q1-Q4) = Status keaktifan nasabah
+* Unpaid Tagging = Status nasabah gagal bayar
 
 ## MODEL YANG DIGUNAKAN
 1. Logistic regression
